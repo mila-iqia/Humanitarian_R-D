@@ -1,6 +1,5 @@
 Welcome to the Humanitarian AI group!
 
-TL;DR:
 See [Agenda](https://docs.google.com/document/d/1zfwhn7y6BlIwV3P7NjjyoXIFlyOMuqdhW1CNoV2GdD4/edit) for our meetings
 (almost every Wednesday 3-4pm, F01).
 
