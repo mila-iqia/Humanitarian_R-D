@@ -10,8 +10,8 @@ Goals:
 - Consistency across Humanitarian AI internships.
 
 Structure:
-- Presentations.
-- References - bibfiles with interesting literature, preferably described in Wiki (or somewhere else).
+- [Presentations](https://github.com/mila-iqia/Humanitarian_R-D/tree/master/presentations).
+- [References](https://github.com/mila-iqia/Humanitarian_R-D/tree/master/references) - bibfiles with interesting literature, preferably described in Wiki (or somewhere else).
 - ?
 
 List of current Wiki Pages:
