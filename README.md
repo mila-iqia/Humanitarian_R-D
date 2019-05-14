@@ -6,12 +6,12 @@ See [Agenda](https://docs.google.com/document/d/1zfwhn7y6BlIwV3P7NjjyoXIFlyOMuqd
 
 
 Goals:
-- resources/good practices/tips&tricks sharing
-- consistency across Humanitarian AI internships
+- Resources/good practices/tips&tricks sharing.
+- Consistency across Humanitarian AI internships.
 
 Structure:
-- presentations
-- references - bibfiles with interesting literature, preferably described in Wiki (or somewhere else)
+- Presentations.
+- References - bibfiles with interesting literature, preferably described in Wiki (or somewhere else).
 - ?
 
 List of current Wiki Pages:
