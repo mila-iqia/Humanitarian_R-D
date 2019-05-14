@@ -16,4 +16,5 @@ Structure:
 List of current [Wiki](https://github.com/mila-iqia/Humanitarian_R-D/wiki) Pages:
 - [Infos MILA](https://github.com/mila-iqia/Humanitarian_R-D/wiki/Infos-MILA)
 - [Know-How Research](https://github.com/mila-iqia/Humanitarian_R-D/wiki/Know-How-Research)
+- [Projects](https://github.com/mila-iqia/Humanitarian_R-D/wiki/Projects)
 - [Python Good Practises](https://github.com/mila-iqia/Humanitarian_R-D/wiki/Python---Good-Practises)
