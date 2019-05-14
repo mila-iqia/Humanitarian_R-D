@@ -9,6 +9,11 @@ Goals:
 - resources/good practices/tips&tricks sharing
 - consistency across Humanitarian AI internships
 
+Structure:
+- presentations
+- references - bibfiles with interesting literature, preferably described in Wiki (or somewhere else)
+- ?
+
 List of current Wiki Pages:
 - [Infos MILA](https://github.com/mila-iqia/Humanitarian_R-D/wiki/Infos-MILA)
 - [Know-How Research](https://github.com/mila-iqia/Humanitarian_R-D/wiki/Know-How-Research)
