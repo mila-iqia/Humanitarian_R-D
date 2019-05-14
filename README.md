@@ -13,7 +13,7 @@ Structure:
 - [References](https://github.com/mila-iqia/Humanitarian_R-D/tree/master/references) - bibfiles with interesting literature, preferably described in Wiki (or somewhere else).
 - ?
 
-List of current Wiki Pages:
+List of current [Wiki](https://github.com/mila-iqia/Humanitarian_R-D/wiki) Pages:
 - [Infos MILA](https://github.com/mila-iqia/Humanitarian_R-D/wiki/Infos-MILA)
 - [Know-How Research](https://github.com/mila-iqia/Humanitarian_R-D/wiki/Know-How-Research)
 - [Python Good Practises](https://github.com/mila-iqia/Humanitarian_R-D/wiki/Python---Good-Practises)
